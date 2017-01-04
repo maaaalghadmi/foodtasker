@@ -25,7 +25,7 @@ SECRET_KEY = '0!cvw68%$fs)ywp_bw!k-$!um2ij&*bo6$!r+$y$3^h@)8puk)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [calm-meadow-39333.herokuapp.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
